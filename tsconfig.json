@@ -1,0 +1,12 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "target": "es6",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "removeComments": true,                           /* Disable emitting comments. */
+    "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
+    "outDir": "./public/js",                                   /* Specify an output folder for all emitted files. */
+    "allowJs": true,
+    "checkJs": false
+  }
+}
